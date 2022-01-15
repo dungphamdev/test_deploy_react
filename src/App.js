@@ -5,6 +5,9 @@ import Clock from './Clock'
 
 function App() {
     console.log('test change');
+
+    console.log('test change 2');
+
     return (
         // <Clock />
         <Example />
