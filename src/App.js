@@ -4,7 +4,7 @@ import Example from './TestComponent'
 import Clock from './Clock'
 
 function App() {
-
+    console.log('test change');
     return (
         // <Clock />
         <Example />
